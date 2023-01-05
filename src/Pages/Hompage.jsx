@@ -62,7 +62,7 @@ export const Hompage = () => {
               <img src={ellipsis} alt='' />
             </div>
             <div className='content'>
-              <h1>{item.timeframes[state].current} </h1>
+              <h1>{item.timeframes[state].current}hrs </h1>
               <p>
                 {state === 'daily'
                   ? 'yesterday'
