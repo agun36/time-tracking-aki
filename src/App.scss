@@ -207,22 +207,22 @@ body {
   }
   &.Study {
     background-image: url(../src/assets/images/icon-study.svg);
-    background-color: $Light-red-work;
+    background-color: $Light-red-study;
     grid-area: Study;
   }
   &.Exercise {
     background-image: url(../src/assets/images/icon-exercise.svg);
-    background-color: $Light-red-work;
+    background-color: $Lime-green-exercise;
     grid-area: Exercise;
   }
   &.Social {
     background-image: url(../src/assets/images/icon-social.svg);
-    background-color: $Light-red-work;
+    background-color: $Violet-social;
     grid-area: Social;
   }
   &.SelfCare {
     background-image: url(../src/assets/images/icon-self-care.svg);
-    background-color: $Light-red-work;
+    background-color: $Soft-orange-self-care;
     grid-area: SelfCare;
   }
   .card {
